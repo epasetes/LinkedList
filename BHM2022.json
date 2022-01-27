@@ -1,0 +1,68 @@
+{
+	"label": "Black History Month Reading Recommendations",
+	"description": "Black History Month Reading 2022",
+	"list": [{
+			"label": "War Girls",
+			"isbns": [
+				"9780451481672",
+				"9780451481689"
+			]
+		},
+		{
+			"label": "The Hero of Numbani",
+			"isbns": [
+				"9781338575972"
+			]
+		},
+		{
+			"label": "The Lesson",
+			"isbns": [
+				"9781982605544",
+				"9781538584576",
+				"9781538584651",
+				"9781538584644"
+			]
+		},
+		{
+			"label": "Everfair",
+			"isbns": [
+				"9780765338051"
+			]
+		},
+		{
+			"label": "The Fifth Season",
+			"isbns": [
+				"9780316527194",
+				"9780316229302",
+				"9780316324977",
+				"9781633882713"
+			]
+		},
+		{
+			"label": "Witches Steeped in Gold",
+			"isbns": [
+				"9780062946003",
+				"9780063063426",
+				"9780062945983",
+				"9780063063433",
+				"9781799953487",
+			]
+		},
+		{
+			"label": "The Rage of Dragons",
+			"isbns": [
+				"9780316489768",
+				"9781549181054"
+			]
+		},
+		{
+			"label": "Cinderella is Dead",
+			"isbns": [
+				"9781547603879",
+				"9781547603886",
+				"9781547603886"
+			]
+		},
+		
+	]
+}
