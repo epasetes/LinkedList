@@ -1,0 +1,104 @@
+{
+	"label": "Galentine's Day",
+	"description": "Galentine's Day",
+	"list": [{
+			"label": "Conversations With Friends",
+			"isbns": [
+				"9780451499059"
+			]
+		},
+		{
+			"label": "Rules for Visiting",
+			"isbns": [
+				"9780525559221"
+			]
+		},
+		{
+			"label": "Miss Benson's Beetle",
+			"isbns": [
+				"9780812996708",
+				"9780812996715"
+			]
+		},
+		{
+			"label": "Recitatif",
+			"isbns": [
+				"9780593315033"
+			]
+		},
+		{
+			"label": "My Brilliant Friend",
+			"isbns": [
+				"9781609450786",
+				"9781609458638",
+				"9781483080680"
+			]
+		},
+		{
+			"label": "The Ballerinas",
+			"isbns": [
+				"1250274230",
+				"9781250274243",
+				"9781250820754"
+			]
+		},
+		{
+			"label": "Wahala",
+			"isbns": [
+				"9780063084247"
+			]
+		},
+		{
+			"label": "The Southern Book Club’s Guide to Slaying Vampires ",
+			"isbns": [
+				"9781683691433",
+				"9781683691440"
+			]
+		},
+		{
+			"label": "The Bright Side Running Club",
+			"isbns": [
+				"9781643859491"
+			]
+		},
+		{
+			"label": "The Animators",
+			"isbns": [
+				"9780812989281"
+			]
+		},
+		{
+			"label": "Beyond the Point",
+			"isbns": [
+				"9780062884336"
+			]
+		},
+		{
+			"label": "Mom Jeans and Other Mistakes",
+			"isbns": [
+				"9780593198896"
+			]
+		},
+		{
+			"label": "Fiona and Jane",
+			"isbns": [
+				"9780593296042",
+				"9780593296059"
+			]
+		},
+		{
+			"label": "Friends Like These",
+			"isbns": [
+				"9780063061569",
+				"9781667033792"
+			]
+		},
+		{
+			"label": "The Group",
+			"isbns": [
+				"9781480438231"
+			]
+		}
+		
+	]
+}
