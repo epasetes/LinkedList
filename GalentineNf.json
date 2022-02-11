@@ -1,0 +1,40 @@
+{
+	"label": "Galentine's Day",
+	"description": "Galentine's Day",
+	"list": [{
+			"label": "Text Me When You Get Home",
+			"isbns": [
+				"9781101986127"
+			]
+		},
+		{
+			"label": "Tell Me More",
+			"isbns": [
+				"9780399588372",
+				"9780399588389"
+			]
+		},
+		{
+			"label": "Big Friendship: How We Keep Each Other Close ",
+			"isbns": [
+				"9781982111908",
+				"9781797107110",
+				"9781982111922"
+			]
+		},
+		{
+			"label": "Truth & Beauty",
+			"isbns": [
+				"9780061754814"
+			]
+		},
+		{
+			"label": "The Art of Showing Up",
+			"isbns": [
+				"9781615196623",
+				"9781094135885"
+			]
+		}
+			
+	]
+}
