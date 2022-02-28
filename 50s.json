@@ -1,0 +1,66 @@
+{
+	"label": "Women's History Month Challenge Reading Recommendations - 1950s",
+	"description": "Women's History Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "The Stationery Shop",
+			"isbns": [
+				"9781982107482"
+			]
+		},
+		{
+			"label": "Mexican Gothic",
+			"isbns": [
+				"9780525620785",
+				"9780593213872",
+				"9780525620792",
+				"9786070778018"
+			]
+		},
+		{
+			"label": "The Immortal Life of Henrietta Lacks",
+			"isbns": [
+				"9781400052189",
+				"9781400052172",
+				"9780307589385",
+				"9780307712530"
+				
+			]
+		},
+		{
+			"label": "Stolen Lives: Twenty Years in a Desert Jail",
+			"isbns": [
+				"9780786867325",
+				"9781587240904"
+			]
+		},
+		{
+			"label": "All These Bodies",
+			"isbns": [
+				"9780062977168",
+				"9780063137202",
+				"9780062977182"
+			]
+		},
+		{
+			"label": "Mazie",
+			"isbns": [
+				"9780525516743"
+			]
+		},
+		{
+			"label": "Last Night at the Telegraph Club",
+			"isbns": [
+				"9780525555254",
+				"9780525555261"
+			]
+		},
+		{
+			"label": "Out of the Easy",
+			"isbns": [
+				"9780399256929",
+				"9781524703790",
+				"9781101607800"
+			]
+		}
+	]
+}

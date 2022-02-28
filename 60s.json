@@ -1,0 +1,62 @@
+{
+	"label": "Women's History Month Challenge Reading Recommendations - 1960s",
+	"description": "Women's History Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "The Girls",
+			"isbns": [
+				"9780812998603",
+				"9780812998610",
+				"9780147524027",
+				"9788433979582"
+			]
+		},
+		{
+			"label": "Dominicana",
+			"isbns": [
+				"9781250205933",
+				"9781644210703"
+			]
+		},
+		{
+			"label": "The Astronaut Wives Club",
+			"isbns": [
+				"9781455503254",
+				"9781455579136",
+				"9781478926870"
+				
+			]
+		},
+		{
+			"label": "Come Fly the World: The Jet-Age story of the Women of Pan Am",
+			"isbns": [
+				"9780358251408"
+			]
+		},
+		{
+			"label": "Daughters of Jubilation",
+			"isbns": [
+				"9781481459501"
+			]
+		},
+		{
+			"label": "Hello, Cruel Heart",
+			"isbns": [
+				"9781368057769",
+				"9781368059190"
+			]
+		},
+		{
+			"label": "Bad Girls Never Say Die",
+			"isbns": [
+				"9781250232588",
+				"9781250232595"
+			]
+		},
+		{
+			"label": "Three Day Summer",
+			"isbns": [
+				"9781481439312"
+			]
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"label": "Women's History Month Challenge Reading Recommendations - Medieval",
+	"description": "Women's History Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "Matrix",
+			"isbns": [
+				"9781594634499",
+				"9780698405134"
+			]
+		},
+		{
+			"label": "Mistress of the Art of Death",
+			"isbns": [
+				"9780399154140",
+				"9781415936993"
+			]
+		},
+		{
+			"label": "The Dark Queens: The Bloody Rivalry That Forged the Medieval World",
+			"isbns": [
+				"9781635574913"
+			]
+		},
+		{
+			"label": "Women in the Middle Ages",
+			"isbns": [
+				"9780690017243"
+			]
+		},
+		{
+			"label": "Hood",
+			"isbns": [
+				"9781368047456",
+				"9781368047494"
+			]
+		},
+		{
+			"label": "The Golden Age Book 1",
+			"isbns": [
+				"9781250237941"
+			]
+		},
+		{
+			"label": "The Other Merlin",
+			"isbns": [
+				"9780525581673",
+				"9780593351048"
+			]
+		},
+		{
+			"label": "The Guinevere Deception",
+			"isbns": [
+				"9780062097743",
+				"9780525581697",
+				"9780593104835",
+				"9788492918881"
+			]
+		}
+	]
+}

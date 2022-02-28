@@ -1,0 +1,59 @@
+{
+	"label": "Women's History Month Challenge Reading Recommendations - Early 20th",
+	"description": "Women's History Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "Like Water for Chocolate",
+			"isbns": [
+				"9780385420167",
+				"9780385471374",
+				"9780307774019"
+			]
+		},
+		{
+			"label": "The Widows of Malabar Hill",
+			"isbns": [
+				"9781616957780",
+				"9781616957797"
+			]
+		},
+		{
+			"label": "A Room of One’s Own",
+			"isbns": [
+				"9780156030410"
+			]
+		},
+		{
+			"label": "Ida B the Queen: The Extraordinary Life and Legacy of Ida B. Wells",
+			"isbns": [
+				"9781982129811"
+			]
+		},
+		{
+			"label": "Rima's Rebellion",
+			"isbns": [
+				"9781534486935"
+			]
+		},
+		{
+			"label": "These Violent Delights",
+			"isbns": [
+				"9781534457690",
+				"9781534457713",
+				"9781705283837"
+			]
+		},
+		{
+			"label": "Daughters of a Dead Empire",
+			"isbns": [
+				"9781250755537"
+			]
+		},
+		{
+			"label": "The Woman All Spies Fear: Code Breaker Elizebeth Smith Friedman and Her Hidden Life",
+			"isbns": [
+				"9780593127193",
+				"9780593127216"
+			]
+		}
+	]
+}

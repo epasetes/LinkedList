@@ -1,0 +1,57 @@
+{
+	"label": "Women's History Month Challenge Reading Recommendations - 1970s",
+	"description": "Women's History Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "The World We Found",
+			"isbns": [
+				"9780061938344"
+			]
+		},
+		{
+			"label": "Valentine",
+			"isbns": [
+				"9780063037687",
+				"9780062913289",
+				"9780062984739"
+			]
+		},
+		{
+			"label": "Unbowed",
+			"isbns": [
+				"9780307492333"
+				
+			]
+		},
+		{
+			"label": "First They Killed My Father",
+			"isbns": [
+				"9781452623276"
+			]
+		},
+		{
+			"label": "Be True to Me",
+			"isbns": [
+				"9781616206758"
+			]
+		},
+		{
+			"label": "Devil’s Advocate",
+			"isbns": [
+				"9781250119582"
+			]
+		},
+		{
+			"label": "Burn Baby Burn",
+			"isbns": [
+				"9780763674670",
+				"9780763679989"
+			]
+		},
+		{
+			"label": "Girls Like Us",
+			"isbns": [
+				"9781250155856"
+			]
+		}
+	]
+}

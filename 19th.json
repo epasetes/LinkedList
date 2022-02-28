@@ -1,0 +1,89 @@
+{
+	"label": "Women's History Month Challenge Reading Recommendations - 19th Century",
+	"description": "Women's History Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "Snow Flower and the Secret Fan",
+			"isbns": [
+				"9781588364746",
+				"9781588364746",
+				"9780739350089"
+			]
+		},
+		{
+			"label": "Libertie",
+			"isbns": [
+				"9781616207014",
+				"9781643751764",
+				"9781980075615"
+			]
+		},
+		{
+			"label": "The Agitators: Three Friends Who Fought for Abolition and Women’s Rights",
+			"isbns": [
+				"9781476760735"
+			]
+		},
+		{
+			"label": "Sophia: Princess, Suffragette, Revolutionary",
+			"isbns": [
+				"9781632860811",
+				"9781632860828"
+			]
+		},
+		{
+			"label": "Sixteen Scandals",
+			"isbns": [
+				"9780358469490"
+			]
+		},
+		{
+			"label": "The Beloved Wild",
+			"isbns": [
+				"9780358206217",
+				"9781250132796"
+			]
+		},
+		{
+			"label": "Mary Shelley: The Strange True Tale of Frankenstein’s Creator",
+			"isbns": [
+				"9781328740052"
+			]
+		},
+		{
+  			"label": "Charlotte Brontë Before Jane Eyre",
+			"isbns": [
+				"9781368023290"
+			]
+		},
+		{
+			"label": "The Beautiful",
+			"isbns": [
+				"9781524738174",
+				"9781524738181",
+				"9780593105658"
+			]
+		},
+		{
+			"label": "When We Caught Fire",
+			"isbns": [
+				"9780062679826",
+				"9780062855787",
+				"9780062679840"
+			]
+		},
+		{
+			"label": "Under a Painted Sky",
+			"isbns": [
+				"9780399168031",
+				"9780698173651"
+			]
+		},
+		{
+			"label": "Nellie Bly",
+			"isbns": [
+				"9781419750175",
+				"9781647001018"
+			]
+		}
+	]
+}

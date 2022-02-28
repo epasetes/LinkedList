@@ -1,0 +1,61 @@
+{
+	"label": "Women's History Month Challenge Reading Recommendations - WWII",
+	"description": "Women's History Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "The Paris Library",
+			"isbns": [
+				"9781982134198",
+				"9781982134211"
+			]
+		},
+		{
+			"label": "The Only Woman in the Room",
+			"isbns": [
+				"9781492666868",
+				"9781492666875",
+				"9781432857905"
+			]
+		},
+		{
+			"label": "The Nine: The True Story of a Band of Women Who Survived the Worst of Nazi Germany",
+			"isbns": [
+				"9781250239297"
+			]
+		},
+		{
+			"label": "The Women Who Wrote the War",
+			"isbns": [
+				"9781559704939"
+			]
+		},
+		{
+			"label": "The Light in Hidden Places",
+			"isbns": [
+				"9781338355932",
+				"9781338355956",
+				"9781338612783"
+			]
+		},
+		{
+			"label": "The War Outside",
+			"isbns": [
+				"9780316316699",
+				"9780316445238",
+				"9781549145773"
+			]
+		},
+		{
+			"label": "Atomic Women: The Untold Stories of the Scientists Who Helped Create the Nuclear Bomb",
+			"isbns": [
+				"9780316489591"
+			]
+		},
+		{
+			"label": "A Thousand Sisters: The Heroic Airwomen of the Soviet Union in World War II",
+			"isbns": [
+				"9780062453013",
+				"9780062453044"
+			]
+		}
+	]
+}

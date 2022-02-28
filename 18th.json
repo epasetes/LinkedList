@@ -1,0 +1,59 @@
+{
+	"label": "Women's History Month Challenge Reading Recommendations - 18th Century",
+	"description": "Women's History Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "Island Queen",
+			"isbns": [
+				"9780063002845",
+				"9780063002869"
+			]
+		},
+		{
+			"label": "Island Beneath the Sea",
+			"isbns": [
+				"9780061988240",
+				"9780061997556"
+			]
+		},
+		{
+			"label": "Queen Anne: The Politics of Passion",
+			"isbns": [
+				"9780307962898"
+			]
+		},
+		{
+			"label": "Revolutionary Mothers: Women in the Struggle for America's Independence",
+			"isbns": [
+				"9781400041633"
+			]
+		},
+		{
+			"label": "The Unbinding of Mary Reade",
+			"isbns": [
+				"9781510727052"
+			]
+		},
+		{
+			"label": "Rebel Spy",
+			"isbns": [
+				"9781524771225",
+				"9781524771232",
+				"9781094166612"
+			]
+		},
+		{
+			"label": "Enchantée",
+			"isbns": [
+				"9781250295521",
+				"9781250295538",
+				"9781250317094"
+			]
+		},
+		{
+			"label": "Theodosia Burr: Teen Eyewitness to the Founding of the New Nation",
+			"isbns": [
+				"9781541542754"
+			]
+		}
+	]
+}

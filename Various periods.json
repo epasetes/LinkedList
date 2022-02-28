@@ -1,0 +1,64 @@
+{
+	"label": "Women's History Month Challenge Reading Recommendations",
+	"description": "Women's History Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "She Votes: how U.S. women won suffrage, and what happened next",
+			"isbns": [
+				"9781452173160"
+			]
+		},
+		{
+			"label": "Headstrong: 52 women who changed science",
+			"isbns": [
+				"9780553446791",
+				"9781101890578",
+				"9780553446807"
+			]
+		},
+		{
+			"label": "Wonder Women: 25 innovators, inventors, and trailblazers who changed history",
+			"isbns": [
+				"9781594749254",
+				"9781594749261"
+			]
+		},
+		{
+			"label": "Broad Band: the untold story of the women who made the Internet",
+			"isbns": [
+				"9780735211759"
+			]
+		},
+		{
+			"label": "Brazen: Rebel Ladies Who Rocked the World",
+			"isbns": [
+				"9781626728691",
+				"9781250307354"
+			]
+		},
+		{
+			"label": "Votes for Women! American Suffragists and the Battle for the Ballot",
+			"isbns": [
+				"9781616207342",
+				"9781616207694"
+			]
+		},
+		{
+			"label": "A Pirate’s Life for She: Swashbuckling Women Through the Ages",
+			"isbns": [
+				"9781641600552"
+			]
+		},
+		{
+                      	"label": "Amazons, Abolitionists, and Activists: A Graphic History of Women’s Fight for Their Rights",
+			"isbns": [
+				"9780399581793"
+			]
+		},
+		{
+			"label": "Lawbreaking Ladies: 50 Tales of Daring, Defiant, and Dangerous Women from History",
+			"isbns": [
+				"9781982147082"
+			]
+		}
+	]
+}
