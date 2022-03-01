@@ -1,20 +1,18 @@
 {
-	"label": "Women's History Month Challenge Reading Recommendations - 1960s",
+	"label": "Women's History Month Challenge Reading Recommendations - 60s",
 	"description": "Women's History Month Challenge Reading Recommendations",
 	"list": [{
 			"label": "The Girls",
 			"isbns": [
 				"9780812998603",
 				"9780812998610",
-				"9780147524027",
-				"9788433979582"
+				"9780147524027"
 			]
 		},
 		{
 			"label": "Dominicana",
 			"isbns": [
-				"9781250205933",
-				"9781644210703"
+				"9781250205933"
 			]
 		},
 		{

@@ -1,0 +1,62 @@
+{
+	"label": "Women's History Month Challenge Reading Recommendations - 80s",
+	"description": "Women's History Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "Swing Time",
+			"isbns": [
+				"9781594203985",
+				"9780399564314",
+				"9780735205642",
+				"9788498388220"
+			]
+		},
+		{
+			"label": "The Vanishing Half",
+			"isbns": [
+				"9780525536291",
+				"9780593286104",
+				"9780525536970"
+			]
+		},
+		{
+			"label": "American Spy",
+			"isbns": [
+				"9780812998955",
+				"9780812998962"
+				
+			]
+		},
+		{
+			"label": "Recollections of My Nonexistence",
+			"isbns": [
+				"9780593083352",
+				"9788426408266"
+			]
+		},
+		{
+			"label": "Alma Presses Play",
+			"isbns": [
+				"9780593121146"
+			]
+		},
+		{
+			"label": "Becoming Beatriz",
+			"isbns": [
+				"9781580897785"
+			]
+		},
+		{
+			"label": "The Turning Pointe",
+			"isbns": [
+				"9780593426135"
+			]
+		},
+		{
+			"label": "Banned Book Club",
+			"isbns": [
+				"9781945820427",
+				"9788412128284"
+			]
+		}
+	]
+}
