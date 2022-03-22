@@ -1,0 +1,39 @@
+{
+	"label": "Galentine's Day",
+	"description": "Galentine's Day",
+	"list": [{
+			"label": "A Ballad of Love and Glory",
+			"isbns": [
+				"9781982165260"
+			]
+		},
+		{
+			"label": "Black Cake",
+			"isbns": [
+				"9780593358337",
+				"9780593358344",
+				"9780593505229"
+			]
+		},
+		{
+			"label": "Anthem",
+			"isbns": [
+				"9781538711514",
+				"9781538724729"
+			]
+		},
+		{
+			"label": "Biblioepsy",
+			"isbns": [
+				"9781641292511"
+			]
+		},
+		{
+			"label": "Autopsy",
+			"isbns": [
+				"9780063112193"
+			]
+		}
+			
+	]
+}
