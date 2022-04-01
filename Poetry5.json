@@ -1,0 +1,35 @@
+{
+	"label": "National Poetry Month Challenge Reading Recommendations",
+	"description": "National Poetry Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "Living Nations, Living Words: An Anthology of First Peoples’ Poetry",
+			"isbns": [
+				"9780393867916"
+			]
+		},
+		{
+			"label": "A Thousand Mornings",
+			"isbns": [
+				"9781594204777"
+			]
+		},
+		{
+			"label": "Sir Gawain and the Green Knight",
+			"isbns": [
+				"9780393060485"
+			]
+		},
+		{
+			"label": "Selected Poems",
+			"isbns": [
+				"9780307278081"
+			]
+		},
+		{
+			"label": "Calling a Wolf a Wolf",
+			"isbns": [
+				"9781938584671"
+			]
+		}
+	]
+}

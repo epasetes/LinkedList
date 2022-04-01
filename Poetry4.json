@@ -1,0 +1,38 @@
+{
+	"label": "National Poetry Month Challenge Reading Recommendations",
+	"description": "National Poetry Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "African American Poetry: 250 Years of Struggle and Song",
+			"isbns": [
+				"9781598536669"
+			]
+		},
+		{
+			"label": "Milk and Honey",
+			"isbns": [
+				"9781449474256",
+				"9781449478650"
+			]
+		},
+		{
+			"label": "How to Cure a Ghost",
+			"isbns": [
+				"9781683356806"
+			]
+		},
+		{
+			"label": "Beowulf: A New Translation",
+			"isbns": [
+				"9780374110031"
+			]
+		},
+		{
+			"label": "I Would Leave Me If I Could",
+			"isbns": [
+				"9781982135607",
+				"9781982135614",
+				"9781797101811"
+			]
+		}
+	]
+}
