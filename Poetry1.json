@@ -1,0 +1,39 @@
+{
+	"label": "National Poetry Month Challenge Reading Recommendations",
+	"description": "National Poetry Month Challenge Reading Recommendations",
+	"list": [{
+			"label": "The Octopus Museum",
+			"isbns": [
+				"9780525655657"
+			]
+		},
+		{
+			"label": "The Collected Poems",
+			"isbns": [
+				"99780061558894"
+			]
+		},
+		{
+			"label": "Goldenrod",
+			"isbns": [
+				"9781982185060",
+				"9781982185077"
+			]
+		},
+		{
+			"label": "The Witch Doesn't Burn in This One",
+			"isbns": [
+				"9781449495022",
+				"9781449495022"
+			]
+		},
+		{
+			"label": "The Hill We Climb",
+			"isbns": [
+				"9780593465271",
+				"9780593465288",
+				"9780593460900"
+			]
+		}
+	]
+}
