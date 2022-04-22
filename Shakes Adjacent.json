@@ -1,0 +1,68 @@
+{
+	"label": "Shakespeare",
+	"description": "Shakespeare",
+	"list": [{
+			"label": "Hamnet",
+			"isbns": [
+				"9781432887551",
+				"9781984898876",
+				"9780525657613",
+				"9780593212158"
+			]
+		},
+		{
+			"label": "Fools and Mortals",
+			"isbns": [
+				"99780062250872",
+				"9780062798411",
+				"9780062798404"
+			]
+		},
+		{
+			"label": "The Quality of Mercy",
+			"isbns": [
+				"9780061864889"
+			]
+		},
+		{
+			"label": "Kill Shakespeare",
+			"isbns": [
+				"9781613772553"
+			]
+		},
+		{
+			"label": "If We Were Villains",
+			"isbns": [
+				"9781250095282"
+			]
+		},
+		{
+			"label": "All’s Well",
+			"isbns": [
+				"9781982169664"
+			]
+		},
+		{
+			"label": "Something Rotten",
+			"isbns": [
+				"9780143035411"
+			]
+		},
+{
+			"label": "Elizabeth the First Wife",
+			"isbns": [
+				"9781938849053",
+				"9781938849060"
+			]
+		},
+		{
+			"label": "Station Eleven",
+			"isbns": [
+				"9780385353304",
+				"9780385353311",
+				"9780553397987"
+			]
+		}
+			
+	]
+}

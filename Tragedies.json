@@ -1,0 +1,101 @@
+{
+	"label": "Shakespeare",
+	"description": "Shakespeare",
+	"list": [{
+			"label": "Dunbar",
+			"isbns": [
+				"9781101904282"
+			]
+		},
+		{
+			"label": "We That Are Young",
+			"isbns": [
+				"9780525521525"
+			]
+		},
+		{
+			"label": "The Queens of Innis Lear",
+			"isbns": [
+				"9780765392466"
+			]
+		},
+		{
+			"label": "The King of Infinite Space",
+			"isbns": [
+				"9780525535898"
+			]
+		},
+		{
+			"label": "Undiscovered Country",
+			"isbns": [
+				"9780316006941"
+			]
+		},
+		{
+			"label": "Nutshell",
+			"isbns": [
+				"9780385542074",
+				"9780385542081"
+			]
+		},
+		{
+			"label": "Wyrd Sisters",
+			"isbns": [
+				"9780061807152"
+			]
+		},
+		{
+			"label": "Foul is Fair",
+			"isbns": [
+				"9781250239549"
+			]
+		},
+		{
+			"label": "New Boy",
+			"isbns": [
+				"9780553447637",
+				"9781524757496",
+				"9780553447644"
+			]
+		},
+		{
+			"label": "I, Iago",
+			"isbns": [
+				"9780062200105"
+			]
+		},
+		{
+			"label": "Crescent",
+			"isbns": [
+				"9780393057478"
+			]
+		},
+		{
+			"label": "These Violent Delights",
+			"isbns": [
+				"9781534457690",
+				"9781534457713",
+				"9781705283837"
+			]
+		},
+{
+			"label": "Ramon and Julieta",
+			"isbns": [
+				"9780593336229"
+			]
+		},
+		{
+			"label": "Verona Comics",
+			"isbns": [
+				"9780525516286"
+			]
+		},
+{
+			"label": "The Dogs of War",
+			"isbns": [
+				"9780670277537"
+			]
+		}
+			
+	]
+}

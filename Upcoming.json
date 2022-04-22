@@ -1,0 +1,24 @@
+{
+	"label": "Shakespeare",
+	"description": "Shakespeare",
+	"list": [{
+			"label": "For the Love of the Bard",
+			"isbns": [
+				"9780593437438"
+			]
+		},
+		{
+			"label": "West Side Love Story",
+			"isbns": [
+				"9781542031233"
+			]
+		},
+		{
+			"label": "Ben & Beatriz",
+			"isbns": [
+				"9781525899959"
+			]
+		}
+			
+	]
+}

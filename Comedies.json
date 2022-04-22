@@ -1,0 +1,90 @@
+{
+	"label": "Shakespeare",
+	"description": "Shakespeare",
+	"list": [{
+			"label": "Dating Dr DIL",
+			"isbns": [
+				"9780063001107"
+			]
+		},
+		{
+			"label": "Vinegar Girl",
+			"isbns": [
+				"9780804141260",
+				"9780451483959",
+				"9780804141277"
+			]
+		},
+		{
+			"label": "The Dreamers",
+			"isbns": [
+				"9780812994162",
+				"9781984833679",
+				"9780812994179"
+			]
+		},
+		{
+			"label": "A Midsummer Night’s Scream",
+			"isbns": [
+				"9780060097981"
+			]
+		},
+		{
+			"label": "The Madness of Love",
+			"isbns": [
+				"9780307538048"
+			]
+		},
+		{
+			"label": "The Last True Poets of the Sea",
+			"isbns": [
+				"9781368048088",
+				"9781982663919",
+				"9781368049412",
+				"9781982663988"
+			]
+		},
+{
+			"label": "Shylock is My Name",
+			"isbns": [
+				"9780804141338"
+			]
+		},
+{
+			"label": "Hag-Seed",
+			"isbns": [
+				"9780804141291",
+				"9780804141307"
+			]
+		},
+		{
+			"label": "The Porpoise",
+			"isbns": [
+				"9780385544313",
+				"9780385544320"
+			]
+		},
+		{
+			"label": "Miranda in Milan",
+			"isbns": [
+				"9781250306326"
+			]
+		},
+		{
+			"label": "The Gap of Time",
+			"isbns": [
+				"9780804141369",
+				"9780147522078"
+			]
+		},
+		{
+			"label": "Exit, Pursued by a Bear",
+			"isbns": [
+				"9781101994580",
+				"9781101994610",
+				"9780399566059"
+			]
+		}
+			
+	]
+}
