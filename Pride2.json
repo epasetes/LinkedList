@@ -1,0 +1,68 @@
+{
+	"label": "Pride",
+	"description": "Pride",
+	"list": [{
+			"label": "Little Foxes Took Up Matches",
+			"isbns": [
+				"9781953534026"
+			]
+		},
+		{
+			"label": "Wrath Goddess Sing",
+			"isbns": [
+				"9780063161184"
+			]
+		},
+		{
+			"label": "What We Do in the Dark",
+			"isbns": [
+				"9780593329672"
+			]
+		},
+		{
+			"label": "The Other Mother",
+			"isbns": [
+				"9781640095045"
+			]
+		},
+		{
+			"label": "Yerba Buena",
+			"isbns": [
+				"9781250810465"
+			]
+		},
+		{
+			"label": "Light Years from Home",
+			"isbns": [
+				"9780778311737"
+			]
+		},
+{
+			"label": "Nevada",
+			"isbns": [
+				"9780374606619"
+			]
+		},
+{
+			"label": "Nuclear Family",
+			"isbns": [
+				"9781640094864"
+			]
+		},
+		{
+			"label": "Young Mungo",
+			"isbns": [
+				"9780802159557",
+				"9780802159564"
+			]
+		},
+		{
+			"label": "Love and Other Disasters",
+			"isbns": [
+				"9781538754849",
+				"9781538754863"
+			]
+		}
+			
+	]
+}

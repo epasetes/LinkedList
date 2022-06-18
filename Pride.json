@@ -1,0 +1,70 @@
+{
+	"label": "Pride",
+	"description": "Pride",
+	"list": [{
+			"label": "Siren Queen",
+			"isbns": [
+				"9781250788832",
+				"9781250788856"
+			]
+		},
+		{
+			"label": "The Sign for Home",
+			"isbns": [
+				"9781982175955"
+			]
+		},
+		{
+			"label": "Kaikeyi",
+			"isbns": [
+				"9780759557338",
+				"9780759557314"
+			]
+		},
+		{
+			"label": "The Verifiers",
+			"isbns": [
+				"9780593313794",
+				"9780593313800",
+				"9780593554913"
+			]
+		},
+		{
+			"label": "So Happy for You",
+			"isbns": [
+				"9781335426901"
+			]
+		},
+		{
+			"label": "Harlem Sunset",
+			"isbns": [
+				"9780593199121"
+			]
+		},
+{
+			"label": "Chef's Kiss",
+			"isbns": [
+				"9781982189082"
+			]
+		},
+{
+			"label": "Queerly Beloved",
+			"isbns": [
+				"9780593243978"
+			]
+		},
+		{
+			"label": "I'm So (Not) Over You",
+			"isbns": [
+				"9780593334447"
+			]
+		},
+		{
+			"label": "Renovated to Death",
+			"isbns": [
+				"9781496735584"
+			]
+		}
+			
+	]
+}

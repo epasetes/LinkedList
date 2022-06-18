@@ -1,0 +1,68 @@
+{
+	"label": "Pride",
+	"description": "Pride",
+	"list": [{
+			"label": "Spear",
+			"isbns": [
+				"9781250819321"
+			]
+		},
+		{
+			"label": "The Boy with a Bird in His Chest",
+			"isbns": [
+				"9781982171933"
+			]
+		},
+		{
+			"label": "Just By Looking at Him",
+			"isbns": [
+				"9781982178581"
+			]
+		},
+		{
+			"label": "Boys Come First",
+			"isbns": [
+				"9781953368256"
+			]
+		},
+		{
+			"label": "A Death in Bloomsbury",
+			"isbns": [
+				"9781916257368"
+			]
+		},
+		{
+			"label": "Something Fabulous",
+			"isbns": [
+				"9781542036290"
+			]
+		},
+{
+			"label": "Wild and Wicked Things",
+			"isbns": [
+				"9780316287159",
+				"9780316287395"
+			]
+		},
+{
+			"label": "Delilah Green Doesn’t Care",
+			"isbns": [
+				"9780593336403",
+				"9780593336410"
+			]
+		},
+		{
+			"label": "The Golden Season",
+			"isbns": [
+				"9781525899836"
+			]
+		},
+		{
+			"label": "Rainbow Rainbow",
+			"isbns": [
+				"99781646221011"
+			]
+		}
+			
+	]
+}
