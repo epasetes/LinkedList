@@ -1,0 +1,32 @@
+{
+	"label": "Short Stories",
+	"description": "Short Stories",
+	"list": [{
+			"label": "High Spirits",
+			"isbns": [
+				"9781646141296"
+			]
+		},
+		{
+			"label": "Reclaim the Stars",
+			"isbns": [
+				"9781250790637"
+			]
+		},
+		{
+			"label": "Her Body and Other Parties",
+			"isbns": [
+				"9781555977887",
+				"9781555979805",
+				"9781681686899"
+			]
+		},
+		{
+			"label": "Humiliation",
+			"isbns": [
+				"9781948226240"
+			]
+		}
+			
+	]
+}
