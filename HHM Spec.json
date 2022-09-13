@@ -1,0 +1,39 @@
+{
+	"label": "Speculative Fiction",
+	"description": "Speculative Fiction",
+	"list": [{
+			"label": "Together We Burn",
+			"isbns": [
+				"9781250803351"
+			]
+		},
+		{
+			"label": "Jawbone",
+			"isbns": [
+				"9781566896214"
+			]
+		},
+		{
+			"label": "Blazewrath Games",
+			"isbns": [
+				"9781645670797"
+			]
+		},
+		{
+			"label": "Cemetery Boys",
+			"isbns": [
+				"9781250250469",
+				"9781250250513",
+				"9781250806598",
+				"9781250619129"
+			]
+		},
+		{
+			"label": "Tears of the Truffle-Pig",
+			"isbns": [
+				"9780374538330"
+			]
+		}
+			
+	]
+}
