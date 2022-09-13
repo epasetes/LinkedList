@@ -1,0 +1,38 @@
+{
+	"label": "Graphic Novels",
+	"description": "Graphic Novels",
+	"list": [{
+			"label": "Movies (And Other Things)",
+			"isbns": [
+				"9781538730195",
+				"9781541490444"
+			]
+		},
+		{
+			"label": "The Treasure of the Black Swan",
+			"isbns": [
+				"9781683965787"
+			]
+		},
+		{
+			"label": "The Witch Owl Parliament Vol. 1: Clockwork Curandera",
+			"isbns": [
+				"9781620145920",
+				"9781643795140"
+			]
+		},
+		{
+			"label": "Amazona",
+			"isbns": [
+				"9781728401706"
+			]
+		},
+		{
+			"label": "Tales from La Vida: A Latinx Comics Anthology",
+			"isbns": [
+				"9780814254936"
+			]
+		}
+			
+	]
+}
