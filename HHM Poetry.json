@@ -1,0 +1,31 @@
+{
+	"label": "Poetry",
+	"description": "Poetry",
+	"list": [{
+			"label": "Inheritance",
+			"isbns": [
+				"9780062931948",
+				"9780062931955"
+			]
+		},
+		{
+			"label": "With a Star in My Hand: Ruben Dario, Poetry Hero",
+			"isbns": [
+				"9781534424937", "9781534461253"
+			]
+		},
+		{
+			"label": "Dreaming of You",
+			"isbns": [
+				"9781662600593"
+			]
+		},
+		{
+			"label": "Every Day We Get More Illegal",
+			"isbns": [
+				"9780872868281"
+			]
+		}
+			
+	]
+}
