@@ -1,0 +1,34 @@
+{
+	"label": "Biography and Memoir",
+	"description": "Biography and Memoir",
+	"list": [{
+			"label": "Crying in the Bathroom",
+			"isbns": [
+				"9780593296936"
+			]
+		},
+		{
+			"label": "My Broken Language",
+			"isbns": [
+				"9780399590047"
+			]
+		},
+		{
+			"label": "Trejo: My Life of Crime, Redemption, and Hollywood",
+			"isbns": [
+				"9781982150822",
+				"9781982150846",
+				"9781797122915",
+				"9781797122847",
+				"9781982150853"
+			]
+		},
+		{
+			"label": "Solito",
+			"isbns": [
+				"9780593498064"
+			]
+		}
+			
+	]
+}
