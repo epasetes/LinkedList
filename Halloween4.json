@@ -1,0 +1,54 @@
+{
+	"label": "Halloween Reads 2022",
+	"description": "Halloween Reads 2022",
+	"list": [{
+			"label": "Jackal",
+			"isbns": [
+				"9780593499306"
+			]
+		},
+		{
+			"label": "Malice House",
+			"isbns": [
+				"9781368089289"
+			]
+		},
+		{
+			"label": "Such Sharp Teeth",
+			"isbns": [
+				"9780593545829"
+			]
+		},
+		{
+			"label": "The Hollow Kind",
+			"isbns": [
+				"9780374538569"
+			]
+		},
+		{
+			"label": "Lute",
+			"isbns": [
+				"9781250826084"
+			]
+		},
+		{
+			"label": "A Dowry of Blood",
+			"isbns": [
+				"9780316501071"
+			]
+		},
+{
+			"label": "Little Eve",
+			"isbns": [
+				"9781250812650"
+			]
+		},
+{
+			"label": "Aliens: Vasquez",
+			"isbns": [
+				"9781803361116"
+			]
+		}
+			
+	]
+}

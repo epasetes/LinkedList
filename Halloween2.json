@@ -1,0 +1,60 @@
+{
+	"label": "Halloween Reads 2022",
+	"description": "Halloween Reads 2022",
+	"list": [{
+			"label": "Suburban Hell",
+			"isbns": [
+				"9780593422373"
+			]
+		},
+		{
+			"label": "Dead Silence",
+			"isbns": [
+				"9781250819994",
+				"9781250778550"
+			]
+		},
+		{
+			"label": "The Hacienda",
+			"isbns": [
+				"9780593436691",
+				"9780593436714",
+				"9780593552681"
+			]
+		},
+		{
+			"label": "What Moves the Dead",
+			"isbns": [
+				"9781250830753",
+				"9781250830784"
+			]
+		},
+		{
+			"label": "Our Wives Under the Sea",
+			"isbns": [
+				"9781250229892"
+			]
+		},
+		{
+			"label": "All the White Spaces",
+			"isbns": [
+				"9781982182700"
+			]
+		},
+{
+			"label": "Ghost Eaters",
+			"isbns": [
+				"9781683692171"
+			]
+		},
+{
+			"label": "Devil House",
+			"isbns": [
+				"9780374212230",
+				"9780374717674",
+				"9781250818942"
+			]
+		}
+			
+	]
+}

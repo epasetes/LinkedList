@@ -1,0 +1,55 @@
+{
+	"label": "Halloween Reads 2022",
+	"description": "Halloween Reads 2022",
+	"list": [{
+			"label": "Woman Eating",
+			"isbns": [
+				"9780063140899"
+			]
+		},
+		{
+			"label": "Black Tides",
+			"isbns": [
+				"9781250792693"
+			]
+		},
+		{
+			"label": "Manhunt",
+			"isbns": [
+				"9781250794642"
+			]
+		},
+		{
+			"label": "The Fervor",
+			"isbns": [
+				"9780593328330",
+				"9780593328347"
+			]
+		},
+		{
+			"label": "Gallows Hill",
+			"isbns": [
+				"9781728220246"
+			]
+		},
+		{
+			"label": "Such a Pretty Smile",
+			"isbns": [
+				"9781250274212"
+			]
+		},
+{
+			"label": "It Rides a Pale Horse",
+			"isbns": [
+				"9780316629522"
+			]
+		},
+{
+			"label": "Road of Bones",
+			"isbns": [
+				"9781250274304"
+			]
+		}
+			
+	]
+}

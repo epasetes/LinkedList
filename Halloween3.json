@@ -1,0 +1,50 @@
+{
+	"label": "Halloween Reads 2022",
+	"description": "Halloween Reads 2022",
+	"list": [{
+			"label": "Juniper & Thorn",
+			"isbns": [
+				"9780062973160",
+				"9780062973184"
+			]
+		},
+		{
+			"label": "Cherish Farrah",
+			"isbns": [
+				"9780593185384"
+			]
+		},
+		{
+			"label": "Reluctant Immortals",
+			"isbns": [
+				"9781982172350"
+			]
+		},
+		{
+			"label": "Friend of the Devil",
+			"isbns": [
+				"9780593331385"
+			]
+		},
+		{
+			"label": "House of Hunger",
+			"isbns": [
+				"9780593438466"
+			]
+		},
+		{
+			"label": "Hide",
+			"isbns": [
+				"9780593359235",
+				"9780593359242"
+			]
+		},
+{
+			"label": "Black Mouth",
+			"isbns": [
+				"9781789098655"
+			]
+		}
+			
+	]
+}
