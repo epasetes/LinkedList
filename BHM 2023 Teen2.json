@@ -1,0 +1,44 @@
+{
+	"label": "Black History Month 2023",
+	"description": "Black History Month 2023",
+	"list": [{
+			"label": "Reggie and Delilah’s Year of Falling",
+			"isbns": [
+				"9780063212992"
+			]
+		},
+		{
+			"label": "Rust in the Root",
+			"isbns": [
+				"9780063038226",
+				"9780063038240",
+				"9780063038257"
+			]
+		},
+		{
+			"label": "This Poison Heart",
+			"isbns": [
+				"9781547603909",
+				"9781547603916",
+				"9781547607723"
+			]
+		},
+		{
+			"label": "White Smoke",
+			"isbns": [
+				"9780063029095",
+				"9780063029118",
+				"9780063029125"
+			]
+		},
+		{
+			"label": "Within These Wicked Walls",
+			"isbns": [
+				"9781250787101",
+				"9781250787118",
+				"9781250819833"
+			]
+		}
+			
+	]
+}
