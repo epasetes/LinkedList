@@ -1,0 +1,38 @@
+{
+	"label": "Black History Month 2023",
+	"description": "Black History Month 2023",
+	"list": [{
+			"label": "Captain America: Symbol of Truth vol. 1: Homeland",
+			"isbns": [
+				"9781302945404"
+			]
+		},
+		{
+			"label": "Far Sector",
+			"isbns": [
+				"9781779512055",
+				"9781779515995"
+			]
+		},
+		{
+			"label": "Iyanu: Child of Wonder",
+			"isbns": [
+				"9781506723044"
+			]
+		},
+		{
+			"label": "Maybe an Artist: A Graphic Memoir",
+			"isbns": [
+				"9780593307816"
+			]
+		},
+		{
+			"label": "Run: Book One",
+			"isbns": [
+				"9781419730696",
+				"9781683353829"
+			]
+		}
+			
+	]
+}
