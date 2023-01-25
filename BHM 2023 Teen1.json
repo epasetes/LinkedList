@@ -1,0 +1,42 @@
+{
+	"label": "Black History Month 2023",
+	"description": "Black History Month 2023",
+	"list": [{
+			"label": "African Town",
+			"isbns": [
+				"9780593322888",
+				"9780593322895",
+				"9781669608875"
+			]
+		},
+		{
+			"label": "Black Enough: Stories of Being Young & Black in America",
+			"isbns": [
+				"9780062698728",
+				"9780062698742"
+			]
+		},
+		{
+			"label": "Cool. Awkward. Black.",
+			"isbns": [
+				"9780593525098",
+				"9780593525111"
+			]
+		},
+		{
+			"label": "The Davenports",
+			"isbns": [
+				"9780593463338"
+			]
+		},
+		{
+			"label": "The Getaway",
+			"isbns": [
+				"9781338752014",
+				"9781338752038",
+				"9781338847574"
+			]
+		}
+			
+	]
+}
