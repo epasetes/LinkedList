@@ -1,0 +1,40 @@
+{
+	"label": "Black History Month 2023",
+	"description": "Black History Month 2023",
+	"list": [{
+			"label": "Monsters We Defy",
+			"isbns": [
+				"9780316377911"
+			]
+		},
+		{
+			"label": "My Darkest Prayer",
+			"isbns": [
+				"9781250867636",
+				"9781250867643",
+				"9781250877512"
+			]
+		},
+		{
+			"label": "Perish",
+			"isbns": [
+				"9780593185919"
+			]
+		},
+		{
+			"label": "Wahala",
+			"isbns": [
+				"9780063084247",
+				"9780063084261"
+			]
+		},
+		{
+			"label": "Yinka, Where is Your Huzband?",
+			"isbns": [
+				"9780593299005",
+				"9780593299012"
+			]
+		}
+			
+	]
+}
