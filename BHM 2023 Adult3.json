@@ -1,0 +1,41 @@
+{
+	"label": "Black History Month 2023",
+	"description": "Black History Month 2023",
+	"list": [{
+			"label": "Black Joy: Stories of Resistance, Resilience and Restoration",
+			"isbns": [
+				"9781982176556"
+			]
+		},
+		{
+			"label": "Finding Me",
+			"isbns": [
+				"9780063037328",
+				"9780063037335",
+				"9780063037342"
+			]
+		},
+		{
+			"label": "Manifesto: On Never Giving Up",
+			"isbns": [
+				"9780802158901",
+				"9780802158918"
+			]
+		},
+		{
+			"label": "The Milky Way: An Autobiography of Our Galaxy",
+			"isbns": [
+				"9781538754153",
+				"9781538754177"
+			]
+		},
+		{
+			"label": "The Trayvon Generation",
+			"isbns": [
+				"9781538737897",
+				"9781538737903"
+			]
+		}
+			
+	]
+}
