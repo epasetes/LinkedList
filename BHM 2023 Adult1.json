@@ -1,0 +1,41 @@
+{
+	"label": "Black History Month 2023",
+	"description": "Black History Month 2023",
+	"list": [{
+			"label": "The Accidental Pinup",
+			"isbns": [
+				"9780593437339",
+				"9780063082519"
+			]
+		},
+		{
+			"label": "Anywhere You Run",
+			"isbns": [
+				"9780063271821",
+				"9780063082519"
+			]
+		},
+		{
+			"label": "The Ballad of Perilous Graves",
+			"isbns": [
+				"9780759557192"
+			]
+		},
+		{
+			"label": "Don’t Cry for Me",
+			"isbns": [
+				"9781335425737",
+				"9780369718808",
+				"9781488213175"
+			]
+		},
+		{
+			"label": "Like a Sister",
+			"isbns": [
+				"9780316256704",
+				"9780316256872"
+			]
+		}
+			
+	]
+}
