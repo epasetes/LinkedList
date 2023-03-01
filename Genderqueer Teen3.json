@@ -1,0 +1,39 @@
+{
+	"label": "Beyond the Binary",
+	"description": "Beyond the Binary",
+	"list": [{
+			"label": "Some Assembly Required",
+			"isbns": [
+				"9781481416757"
+			]
+		},
+		{
+			"label": "Rethinking Normal",
+			"isbns": [
+				"9781481418232"
+			]
+		},
+		{
+			"label": "Being Jazz",
+			"isbns": [
+				"9780399554643",
+				"9780735207455",
+				"9780399554667"
+			]
+		},
+		{
+			"label": "Beyond Magenta",
+			"isbns": [
+				"9780763656119",
+				"9780763670351"
+			]
+		},
+		{
+			"label": "Beyond the Gender Binary",
+			"isbns": [
+				"9780593094655"
+			]
+		}
+			
+	]
+}

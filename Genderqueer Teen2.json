@@ -1,0 +1,39 @@
+{
+	"label": "Beyond the Binary",
+	"description": "Beyond the Binary",
+	"list": [{
+			"label": "Meet Cute Diary",
+			"isbns": [
+				"9780063038837"
+			]
+		},
+		{
+			"label": "Self-Made Boys",
+			"isbns": [
+				"9781250774934"
+			]
+		},
+		{
+			"label": "Act Cool",
+			"isbns": [
+				"9780063038561",
+				"9780063038592"
+			]
+		},
+		{
+			"label": "If I Was Your Girl",
+			"isbns": [
+				"9781250078407",
+				"9781427272928",
+				"9781250078421"
+			]
+		},
+		{
+			"label": "Can't Take That Away",
+			"isbns": [
+				"9781547605309"
+			]
+		}
+			
+	]
+}

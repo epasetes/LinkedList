@@ -1,0 +1,41 @@
+{
+	"label": "Beyond the Binary",
+	"description": "Beyond the Binary",
+	"list": [{
+			"label": "All Out",
+			"isbns": [
+				"9781335470454",
+				"9781488030451"
+			]
+		},
+		{
+			"label": "Lark & Kasim Start a Revolution",
+			"isbns": [
+				"9781419756870"
+			]
+		},
+		{
+			"label": "The Heartbreak Bakery",
+			"isbns": [
+				"9781536216530",
+				"9781536222371"
+			]
+		},
+		{
+			"label": "The Feeling of Falling in Love",
+			"isbns": [
+				"9781338777666",
+				"9781338777680",
+				"9781338853155"
+			]
+		},
+		{
+			"label": "The Witch King",
+			"isbns": [
+				"9781335212795",
+				"9781488211249"
+			]
+		}
+			
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"label": "Beyond the Binary",
+	"description": "Beyond the Binary",
+	"list": [{
+			"label": "Boys Run the Riot",
+			"isbns": [
+				"9781646512485"
+			]
+		},
+		{
+			"label": "Cosmoknights",
+			"isbns": [
+				"9781603094542"
+			]
+		},
+		{
+			"label": "Magical Boy",
+			"isbns": [
+				"9781338775532"
+			]
+		},
+		{
+			"label": "A Quick & Easy Guide to Queer & Trans Identities",
+			"isbns": [
+				"9781620105863",
+				"9781620105870"
+			]
+		},
+		{
+			"label": "Kisses for Jet",
+			"isbns": [
+				"9781913123031"
+			]
+		}
+			
+	]
+}
