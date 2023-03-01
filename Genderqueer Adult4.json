@@ -1,0 +1,36 @@
+{
+	"label": "Beyond the Binary",
+	"description": "Beyond the Binary",
+	"list": [{
+			"label": "They/Them/Their",
+			"isbns": [
+				"9781785924835"
+			]
+		},
+		{
+			"label": "Gender: A Graphic Guide",
+			"isbns": [
+				"9781785784521"
+			]
+		},
+		{
+			"label": "A Pros and Cons List for Strong Feelings",
+			"isbns": [
+				"9781953534453"
+			]
+		},
+		{
+			"label": "Fine",
+			"isbns": [
+				"9781631496806"
+			]
+		},
+		{
+			"label": "The Third Person",
+			"isbns": [
+				"9781770466159"
+			]
+		}
+			
+	]
+}

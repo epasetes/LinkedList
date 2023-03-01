@@ -1,0 +1,37 @@
+{
+	"label": "Beyond the Binary",
+	"description": "Beyond the Binary",
+	"list": [{
+			"label": "Reputation",
+			"isbns": [
+				"9781250832832",
+				"9781250832849"
+			]
+		},
+		{
+			"label": "The Bruising of Qilwa",
+			"isbns": [
+				"9781616963781"
+			]
+		},
+		{
+			"label": "Several People Are Typing",
+			"isbns": [
+				"9780385547222"
+			]
+		},
+		{
+			"label": "Endpapers",
+			"isbns": [
+				"9781643751849"
+			]
+		},
+		{
+			"label": "Summer Sons",
+			"isbns": [
+				"9781250790286"
+			]
+		}
+			
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"label": "Beyond the Binary",
+	"description": "Beyond the Binary",
+	"list": [{
+			"label": "Before We Were Trans",
+			"isbns": [
+				"9781541603080"
+			]
+		},
+		{
+			"label": "Gender Euphoria",
+			"isbns": [
+				"9781800180567"
+			]
+		},
+		{
+			"label": "Transgender History",
+			"isbns": [
+				"9781580056892"
+			]
+		},
+		{
+			"label": "Born Both",
+			"isbns": [
+				"9780316347839",
+				"9781478968993"
+			]
+		},
+		{
+			"label": "In Their Shoes",
+			"isbns": [
+				"9781787752429"
+			]
+		}
+			
+	]
+}

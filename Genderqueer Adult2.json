@@ -1,0 +1,38 @@
+{
+	"label": "Beyond the Binary",
+	"description": "Beyond the Binary",
+	"list": [{
+			"label": "The Companion",
+			"isbns": [
+				"9798721528699"
+			]
+		},
+		{
+			"label": "Confessions of the Fox",
+			"isbns": [
+				"9780399592270",
+				"9781684412617"
+			]
+		},
+		{
+			"label": "Sterling Karat Gold",
+			"isbns": [
+				"9781644452134"
+			]
+		},
+		{
+			"label": "All the White Spaces",
+			"isbns": [
+				"9781982182700"
+			]
+		},
+		{
+			"label": "Mistakes Were Made",
+			"isbns": [
+				"9781250841001",
+				"9781250841018"
+			]
+		}
+			
+	]
+}
