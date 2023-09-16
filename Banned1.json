@@ -1,0 +1,131 @@
+{
+	"label": "Top Banned Books",
+	"description": "Top Banned Books",
+	"list": [{
+			"label": "Gender Queer",
+			"isbns": [
+				"9781549304002"
+			]
+		},
+		{
+			"label": "All Boys Aren't Blue",
+			"isbns": [
+				"9780374312718",
+				"9781250247896",
+				"9780374312725"
+			]
+		},
+		{
+			"label": "The Bluest Eye",
+			"isbns": [
+				"9780679433736",
+				"9780307386588",
+				"9780307941145"
+			]
+		},
+		{
+			"label": "Flamer",
+			"isbns": [
+				"9781627796415"
+			]
+		},
+		{
+			"label": "Looking for Alaska",
+			"isbns": [
+				"9780525475064",
+				"9781423324447",
+				"9781101434208"
+			]
+		},
+		{
+			"label": "The Perks of Being a Wallflower",
+			"isbns": [
+				"9781508251552",
+				"9781439122433",
+				"9781451696202"
+			]
+		},
+		{
+			"label": "Lawn Boy",
+			"isbns": [
+				"9781684413270",
+				"9781616208257",
+				"9781616202620",
+				"9781684413270"
+			]
+		},
+		{
+			"label": "The Absolutely True Diary of a Part-time Indian",
+			"isbns": [
+				"9780316219303",
+				"9780316013697",
+				"9781428182974"
+			]
+		},
+		{
+			"label": "Out of Darkness",
+			"isbns": [
+				"9780735289482",
+				"9781467742023"
+			]
+		},
+		{
+			"label": "A Court of Mist and Fury",
+			"isbns": [
+				"9781619634466",
+				"9781490640723",
+				"9781501938016",
+				"9781619634473"
+			]
+		},
+		{
+			"label": "Crank",
+			"isbns": [
+				"9781598877687",
+				"9781442471818"
+			]
+		},
+		{
+			"label": "Me and Earl and the Dying Girl",
+			"isbns": [
+				"9781419701764",
+				"9781613123065"
+			]
+		},
+		{
+			"label": "This Book is Gay",
+			"isbns": [
+				"9781492617846"
+			
+			]
+		},
+		{
+			"label": "Maus",
+			"isbns": [
+				"9780679406419"
+			]
+		},
+		{
+			"label": "The Hate U Give",
+			"isbns": [
+				"9780062498557",
+				"9780062677082",
+				"9780062677099",
+				"9780062498533"
+			]
+		},
+		{
+			"label": "The Handmaid's Tale: The Graphic Novel",
+			"isbns": [
+				"9780385539241"
+			]
+		},
+		{
+			"label": "Milk and Honey",
+			"isbns": [
+				"9781449474256",
+				"9781449478650"
+			]
+		}
+]
+}
